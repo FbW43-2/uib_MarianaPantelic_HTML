@@ -33,7 +33,7 @@ body {
 .inner-inner-square {
   width: 120px;
   height: 120px;
-  background-image: url("img/giphy.gif");
+  background-image: url("img/greta.gif");
   background-size: cover;
   background-position: center;
 }
@@ -50,4 +50,13 @@ body {
   width: 230px;
   height: 230px;
   background-color: yellowgreen;
+}
+#meme-square-1 {
+  background-image: url("img/greta.gif");
+  background-size: cover;
+  background-position: center;
+}
+#meme-square-2 {
+}
+#meme-square-3 {
 }
