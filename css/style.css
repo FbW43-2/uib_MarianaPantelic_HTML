@@ -13,6 +13,7 @@ body {
 }
 .thick-border-1 {
   border: solid 10px;
+  border-radius: 20%;
 }
 .thick-border-2 {
   border-width: 10px;
@@ -32,4 +33,7 @@ body {
 .inner-inner-square {
   width: 120px;
   height: 120px;
+  background-image: url("img/giphy.gif");
+  background-size: cover;
+  background-position: center;
 }
