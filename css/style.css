@@ -6,6 +6,11 @@ body {
 .color-primary {
   background-color: darkkhaki;
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .thick-border-1 {
   border: solid 10px;
 }
@@ -18,22 +23,13 @@ body {
   width: 360px;
   height: 360px;
   background-color: sandybrown;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .inner-square {
   width: 200px;
   height: 200px;
   background-color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .inner-inner-square {
   width: 120px;
   height: 120px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
